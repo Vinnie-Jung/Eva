@@ -5,7 +5,7 @@ Este repositório é um clone do repositório original no qual aqui foram exclu�
 <h3> TCC do programa de capacitação Entra21</h3>
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details open>
   <summary name="indice">Índice</summary>
   <ol>
     <li><a href="#projeto">Sobre o projeto</a></li>
