@@ -24,7 +24,7 @@ Este repositório é um clone do repositório original no qual aqui foram exclu�
 <p align="right">(<a href="#indice">voltar ao indice</a>)</p>
 
 <h2 name="projeto"> Sobre o projeto  </h2>
-Este projeto foi realizado pelos colaboradores Alessandro Geras, <a href="https://github.com/Eliabe-Ribeiro-22">Eliabe Ribeiro</a> e <a href="https://github.com/Vinnie-Jung">Vinícius Jung</a> com o objetivo de ajudar uma instituição não governamental, chamada Espaço Vida e Saúde, localizada na cidade de Garopaba, no qual são realizados vários tipos de atendimentos para atender pacientes com autismo. <br><br>
+Este projeto foi realizado pelos colaboradores <a href="https://github.com/AlessandroGeras">Alessandro Geras</a>, <a href="https://github.com/Eliabe-Ribeiro-22">Eliabe Ribeiro</a> e <a href="https://github.com/Vinnie-Jung">Vinícius Jung</a> com o objetivo de ajudar uma instituição não governamental, chamada Espaço Vida e Saúde, localizada na cidade de Garopaba, no qual são realizados vários tipos de atendimentos para atender pacientes com autismo. <br><br>
 
 No projeto, estão presentes recursos que permitem o contato e a divulgação dos profissionais da área da psicologia, bem como a democratização do acesso a esse tipo de serviço. Existirá um recurso em que as pessoas cadastradas terão seu atendimento documentado e disponibilizado para acompanhamento familiar. Também será adicionada uma página de eventos onde serão exibidas diversas palestras educacionais a respeito do autismo. <br>
 <p align="right">(<a href="#indice">voltar ao indice</a>)</p>
